@@ -1,0 +1,33 @@
+ul{
+  cursor:pointer;
+}
+body{
+  background-color:#cce6ff;
+}
+#cat{
+
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 50%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border: 10px solid blue;
+    border-radius: 5px;
+  }
+  #cat-list{
+
+    width: 50%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+
+.clickMe{
+
+
+}
+.info{
+  view:hidden;
+}
